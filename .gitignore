@@ -1,0 +1,13 @@
+.env
+.venv/
+.env
+vectorstore/
+Groq API Key.png
+Groq API Key.txt
+vectorstore/
+*.pdf
+*.pkl
+*.faiss
+*.log
+__pycache__/
+*.pyc
